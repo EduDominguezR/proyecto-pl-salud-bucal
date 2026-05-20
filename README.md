@@ -1,4 +1,3 @@
-# proyecto-pl-salud-bucal
 # Sistema Experto de Salud Bucal Básica
 
 Sistema experto desarrollado en Python para orientar sobre problemas básicos de salud bucal a partir de síntomas seleccionados por el usuario.
